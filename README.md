@@ -70,4 +70,4 @@ I tested the application myself and checked that its main features worked. I use
 
 - **GitHub repository:** https://github.com/olio-lio-lio/dom-scripting-project
 - **Published application:** https://olio-lio-lio.github.io/dom-scripting-project/.
-- **Presentation video:** To be added after recording.
+

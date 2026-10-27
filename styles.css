@@ -27,7 +27,7 @@ h1 {
 
 
 button {
-    background-color: #8b6f47;
+    background-color: #4d381c;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -58,7 +58,7 @@ footer {
 
 #task-list li {
     margin-bottom: 12px;
-     background-color: #fff2a8;
+     background-color: #bbb5d3;
      padding: 10px;
      border-radius: 6px;
 }
@@ -89,7 +89,7 @@ button:hover {
 
 #task-list li.completed {
     text-decoration: line-through;
-    color: #8b7b6b;
+    color: #fcfbf9;
 }
 
 #task-list button {
